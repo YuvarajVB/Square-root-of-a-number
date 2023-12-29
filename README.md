@@ -31,7 +31,8 @@ sq()
 ```
 
 ## Output:
-![image](https://github.com/YuvarajVB/Square-root-of-a-number/assets/151488375/7a2f839a-58ac-4c58-8fea-2a868a4173ef)
+![Screenshot 2023-12-29 132427](https://github.com/YuvarajVB/Square-root-of-a-number/assets/151488375/e304a6f9-2239-4b4b-a8e6-1528c4d44245)
+
 
 
 
